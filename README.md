@@ -1,0 +1,2 @@
+# no-crt-cmake
+This sample shows how to avoid CRT when building C/C++ with CMake on Windows. This is essentially adoption of [this artile](https://hero.handmade.network/forums/code-discussion/t/94-guide_-_how_to_avoid_c_c++_runtime_on_windows) on Handmade Forum for x64 CMake MSVC.
